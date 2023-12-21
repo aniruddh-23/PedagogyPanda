@@ -1,2 +1,2 @@
-# kaggle
-Repo to track Kaggle challenges progress
+# PedagogyPanda
+Track Learnign Progress for AI/ML tasks
